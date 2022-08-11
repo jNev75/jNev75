@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Discord | User ID: James_255#7368
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I play tennis
 -->
