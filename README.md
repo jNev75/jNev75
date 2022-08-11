@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Django
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Discord Channel](James_255#7368)
+- 📫 How to reach me: ... Discord | User ID: James_255#7368
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play tennis
 -->
