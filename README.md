@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnev75&label=Profile%20views&color=0e75b6&style=flat" alt="jnev75" /> </p>
 
-- 🔭 I’m currently working on [Django Authentication and User Management tutorial](https://www.youtube.com/watch?v=WuyKxdLcw3w)
+- 🔭 I’m developing a Motor Insurance Calculation application
 
-- 🌱 I’m currently learning **Django, Vue.js, PostreSQL, MySQL**
+- 🌱 I’m currently learning Java
 
 - 👯 I’m looking to collaborate on **Junior Software Developer projects**
-
-- 🤝 I’m looking for help with **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jNev75?tab=repositories](https://github.com/jNev75?tab=repositories)
 
