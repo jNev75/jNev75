@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **VB.NET, C#, Blue Prism**
 
-⚡ Fun fact **I play Tennis in my spare time!**
+⚡ Fun fact **I play tennis in my spare time!**
 
  </div>
  
