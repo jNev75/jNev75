@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,vb,dotnet,blueprism,mysql,json,xml,xunit,py,django,sqlite" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,py,django,sqlite" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode.idea" /><br>
 </div>
 <br>
 <div align=center>
