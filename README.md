@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a car park management system**
+ 🔭 I’m currently working on **a Car Park Management System**
  
- 🌱 I’m currently learning **VB.NET, C#, Blue Prism**
+ 🌱 I’m currently learning **C# and Java**
 
 ⚡ Fun fact **I play tennis in my spare time!**
 
